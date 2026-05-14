@@ -1,6 +1,6 @@
 # [Omnisphere – Free Full Version 2026](https://share.google/rgcLa9nrrpnz9how3)
 
-[![preview](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ableton_Logo.svg/480px-Ableton_Logo.svg.png)](https://share.google/rgcLa9nrrpnz9how3)
+[![preview](https://upload.wikimedia.org/wikipedia/commons/6/6e/FL_Studio_Logo.png)](https://share.google/rgcLa9nrrpnz9how3)
 
 Spectrasonics Omnisphere is a powerhouse synthesizer plugin with over 14,000 inspiring sounds covering every style and genre. Its deep synthesis engine combines samples, wavetables, FM, and granular processing for virtually unlimited sound design possibilities. This build is fully unlocked.
 
